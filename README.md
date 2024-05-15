@@ -1,5 +1,6 @@
 ## Hey! 👋 
 
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mbairo&hide=stars,issues,show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbairo&layout=compact&langs_count=7&theme=dracula"/>
@@ -16,13 +17,18 @@
   <img align="center" alt="Logo-Android" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
   <img align="center" alt="Logo-Csharp" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
   <img align="center" alt="Logo-MySql" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Logo-Docker" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="Logo-Docker" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">  
+  <img align="center" alt="Logo-Dart" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg" >
+  <img align="center" alt="Logo-Flutter" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
 </div><br>
 
 ### Linguagens que estou me aprofundando no momento (_favoritas_)
 <div style="display: inline_block">
   <img align="center" alt="Logo-Java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
-  <img align="center" alt="Logo-Csharp" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="Logo-Dart" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg" >
+  <img align="center" alt="Logo-Flutter" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
+
+   
 </div><br>
 
 ### Sistemas Operacionais
